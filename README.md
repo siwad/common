@@ -2,7 +2,7 @@
 Common C++ classes and functions
 
 Originally in 2005, at a short period of unemployment, I developped some classes and functions I found helpfully for further projects.
-These classes and functions, in its primary form, became part of later projects.
+These classes and functions, in their primary form, became part of later projects.
 In 2022, at the beginning of my partial retirement, I reworked these classes found in 2005.
 
 The repository of common classes and functions contains:
