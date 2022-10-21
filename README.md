@@ -13,3 +13,6 @@ The repository of common classes and functions contains:
 
 The classes and functions have been compiled and tested with gcc 7.5.0 under Linux.
 
+### License
+GNU LGPL v3.0
+
