@@ -80,7 +80,7 @@ public:
     /**
      * @return true if current value is the default value
      */
-	virtual bool isDefaultValue() const ;
+	virtual bool isDefaultValue() const;
 
     /**
      * Sets the current value to the default value
@@ -265,7 +265,7 @@ public:
 	 * @return true if the array's elements contains the default
 	 * values
 	 */
-	virtual bool isDefaultValue() const;
+	virtual bool isDefaultValue() const override;
 
 	/**
 	 * @return the size of T[]
